@@ -1,0 +1,7 @@
+The application is implemented with a use of Spring Boot and Java 17.
+To run simply run `./mvnw spring-boot:run`. The application starts on port 8080.
+
+I was writing the code from 9:30 PM to 3:00 AM with an hour break to eat and rest (completed mvp)
+and from 9:00 PM to 11:00 PM to do the tests.
+Please note, I had ZERO prior experience with API development in java and ZERO experience in creating the tests.
+90% of the time spent I was doing the researches. Of course I had a ton of transferable experience from C# and .Net.
