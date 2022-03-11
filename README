@@ -1,3 +1,7 @@
+The solution of Hatchways backend assesment. This web application provides REST Api to
+fetch blog posts by multiple tags from another public Api. Fetching is done concurrently
+and with a use of caching.
+
 The application is implemented with a use of Spring Boot and Java 17.
 To run simply run `./mvnw spring-boot:run`. The application starts on port 8080.
 
